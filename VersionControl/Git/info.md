@@ -24,5 +24,7 @@ Get the status of your current branch: ```git status```
 Linking your local repo to a GitHub repository: 
 ```git remote add origin url```
 
+Pushing to remote GitHub repo: ```git push origin branch_name```
+
 Verify: 
 ```get remote -v```
